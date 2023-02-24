@@ -1,2 +1,6 @@
-# api-arduino
-API de Aquisição de Dados com Arduino - adaptado possibilitando inserção de dados em Nuvem
+# :warning: :warning: :warning: Este repositório foi descontinuado.  
+## Acessar o repositório abaixo:
+
+https://github.com/BandTec/dat-acqu-ino  
+https://github.com/BandTec/dat-acqu-ino  
+https://github.com/BandTec/dat-acqu-ino
